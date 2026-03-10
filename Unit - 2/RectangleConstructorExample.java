@@ -1,8 +1,8 @@
-public class Rectangle3 {
+public class RectangleConstructorExample {
     double length;
     double width;
 
-    public Rectangle3(double length, double width) {
+    public RectangleConstructorExample(double length, double width) {
         this.length = length;
         this.width = width;
     }
@@ -12,7 +12,7 @@ public class Rectangle3 {
     }
 
     public static void main(String[] args) {
-        Rectangle3 rect = new Rectangle3(3, 9);
+        RectangleConstructorExample rect = new RectangleConstructorExample(3, 9);
         rect.displayArea();
     }
 

@@ -2,7 +2,7 @@ class Person4 {
     String name = "Parent Name";
 }
 
-public class Student4 extends Person4 {
+public class SuperKeywordDemo extends Person4 {
     String name = "Child Name";
 
     void display() {
@@ -11,7 +11,7 @@ public class Student4 extends Person4 {
     }
 
     public static void main(String[] args) {
-        Student4 s = new Student4();
+        SuperKeywordDemo s = new SuperKeywordDemo();
         s.display();
     }
 }

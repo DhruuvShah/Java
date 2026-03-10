@@ -35,7 +35,7 @@ class rectangle2 extends Shape {
     }
 }
 
-public class Find_Area {
+public class ShapeAreaExample {
 
     public static void main(String[] args) {
         Shape circle = new circle2(5);

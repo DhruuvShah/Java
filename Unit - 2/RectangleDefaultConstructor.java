@@ -1,8 +1,8 @@
-public class Rectangles {
+public class RectangleDefaultConstructor {
     double length;
     double width;
 
-    Rectangles() {
+    RectangleDefaultConstructor() {
         this.length = 1.0;
         this.width = 1.0;
     }
@@ -13,7 +13,7 @@ public class Rectangles {
     }
 
     public static void main(String[] args) {
-        Rectangles rect1 = new Rectangles();
+        RectangleDefaultConstructor rect1 = new RectangleDefaultConstructor();
         rect1.displayArea();
     }
 

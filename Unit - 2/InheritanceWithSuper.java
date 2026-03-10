@@ -1,4 +1,4 @@
-class Animal2 {
+class InheritanceWithSuper {
     void sound() {
         System.out.println("Animal makes a sound");
     }
@@ -10,7 +10,7 @@ class Animal2 {
     }
 }
 
-class Cat extends Animal2 {
+class Cat extends InheritanceWithSuper {
     void sound() {
         System.out.println("Cat meows");
         super.sound(); // Calling parent class method

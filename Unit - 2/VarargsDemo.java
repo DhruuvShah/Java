@@ -1,4 +1,4 @@
-public class VariableArugumentDemo {
+public class VarargsDemo {
     static void fun(int... a) {
         System.out.println("Number of arguments: " + a.length);
 

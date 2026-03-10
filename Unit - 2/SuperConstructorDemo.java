@@ -5,13 +5,13 @@ class SuperClass {
     }
 }
 
-public class SubClass extends SuperClass {
-    SubClass() {
+public class SuperConstructorDemo extends SuperClass {
+    SuperConstructorDemo() {
         super();
         System.out.println("Sub Class Constructor");
     }
 
     public static void main(String[] args) {
-        SubClass m = new SubClass();
+        SuperConstructorDemo m = new SuperConstructorDemo();
     }
 }
