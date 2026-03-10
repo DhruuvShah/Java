@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class C9 {
+public class StudentInfoInput {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

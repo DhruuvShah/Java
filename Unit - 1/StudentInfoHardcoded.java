@@ -1,5 +1,5 @@
 
-public class C8 {
+public class StudentInfoHardcoded {
 
 	public static void main(String[] args) {
 		String name = "Dhruv";

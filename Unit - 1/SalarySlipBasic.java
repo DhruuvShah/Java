@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SalarySlip {
+public class SalarySlipBasic {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Company Name: ");

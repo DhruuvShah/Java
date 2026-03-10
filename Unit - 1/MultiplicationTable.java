@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class C4 {
+public class MultiplicationTable {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

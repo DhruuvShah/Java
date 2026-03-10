@@ -1,5 +1,5 @@
 
-public class C3 {
+public class EvenOddPrinter {
 
 	public static void main(String[] args) {
 		int i = 1;

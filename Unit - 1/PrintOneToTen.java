@@ -1,5 +1,5 @@
 
-public class C2 {
+public class PrintOneToTen {
 
 	public static void main(String[] args) {
 		for(int i = 1; i <= 10; i++) {

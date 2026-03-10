@@ -4,7 +4,7 @@ class Student1 {
 	}
 }
 
-public class C1 { 
+public class StudentDisplay { 
 public static void main(String[] args) { 
 	Student1 s = new Student1();  // Object Created 
 	s.display(); 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DayOfWeek {
+public class DayNumberToName {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter day number (1 to 7): ");
