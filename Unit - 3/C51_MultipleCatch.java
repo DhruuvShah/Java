@@ -29,5 +29,6 @@ public class C51_MultipleCatch {
 		}
 
 		System.out.println("Program continues normally...");
+		sc.close();
 	}
 }

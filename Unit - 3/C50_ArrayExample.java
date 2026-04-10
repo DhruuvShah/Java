@@ -19,5 +19,6 @@ public class C50_ArrayExample {
 		}
 
 		System.out.println("Program continues normally...");
+		sc.close();
 	}
 }
