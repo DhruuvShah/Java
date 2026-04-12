@@ -1,3 +1,5 @@
+// 45. Java program demonstrates the use of the final keyword to prevent method overriding.
+
 class FinalMethodClass {
 	final void method1() {
 		System.out.println("This is method 1");

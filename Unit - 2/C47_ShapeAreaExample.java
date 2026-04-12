@@ -1,3 +1,4 @@
+// 47. Write a Java program demonstrates the concept of abstract classes and abstract methods. 
 
 abstract class Shape {
 	public abstract double calculateArea();

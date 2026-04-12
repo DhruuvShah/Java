@@ -1,3 +1,6 @@
+// 57. Write a program to demonstrate Thread priorities and print 1 to 3 number 
+// based on the Thread priorities. 
+
 class PriorityThread extends Thread {
 	String name;
 

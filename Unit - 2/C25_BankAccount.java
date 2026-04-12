@@ -1,3 +1,9 @@
+// Write a Java program demonstrates the use of a default constructor to initialize object data members. 
+// Create class BankAccount contains three instance variables: 
+// • accountNumber 
+// • accountHolderName 
+// • balance 
+
 class BankAccount_25 {
 
 	// Instance variables

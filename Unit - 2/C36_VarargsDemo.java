@@ -1,3 +1,5 @@
+// 36. Write a Java program to demonstrates the use of variable-length arguments (varargs). 
+
 public class C36_VarargsDemo {
 	static void fun(int... a) {
 		System.out.println("Number of arguments: " + a.length);

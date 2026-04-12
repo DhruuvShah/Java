@@ -1,3 +1,6 @@
+// 10. Write a java program to accept college name, stream, roll number, 
+// student name and marks of six subjects and find the Percentage. 
+
 import java.util.Scanner;
 
 public class C10_StudentPercentageCalculator {

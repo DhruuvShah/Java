@@ -1,3 +1,5 @@
+//16.Write a Java Program to print the Day Of week using switch Case.
+
 import java.util.Scanner;
 
 public class C16_DayNumberToName {

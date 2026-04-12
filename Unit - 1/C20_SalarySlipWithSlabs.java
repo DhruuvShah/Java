@@ -1,3 +1,21 @@
+// 20.Write a Java program that calculates and displays the salary slip of an 
+// employee. Program will take inputs from the user – (Company Name, 
+// Employee ID, Employee Department, Employee Name, Joining Date 
+// (dd/mm/yyyy), Basic Salary).  
+// The percentages for allowances should vary based on the basic salary: 
+// Salary         TA (%)        MA(%)      PF(%)       IT(%) 
+// Below 30k       5            2.5        5.5         7
+// 30k to 50k      5.5          3.5        6.5         9
+// 50k to 80k      6            4          7           12 
+// Above 80k       7            5          8           14
+
+// The program should calculate the gross salary as: 
+// Gross Salary = Basic Salary + TA + MA 
+// After calculating gross salary, calculate the Provident Fund (PF) on Gross salary. 
+// Deduct the PF from the gross salary to calculate the salary after deducting PF. 
+// Deduct the Income Tax (IT) from the salary after deducting PF to calculate the 
+// net salary. 
+
 import java.util.Scanner;
 
 public class C20_SalarySlipWithSlabs {

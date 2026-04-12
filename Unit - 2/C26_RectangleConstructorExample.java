@@ -1,3 +1,5 @@
+// 26. Write a Java program to demonstrates the use of a parameterized constructor. 
+
 public class C26_RectangleConstructorExample {
 	double length;
 	double width;

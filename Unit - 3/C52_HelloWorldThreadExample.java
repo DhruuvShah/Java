@@ -1,3 +1,6 @@
+// 52. Write a Java program to create a thread that prints "Hello, World!" five times, 
+// with a delay of 5 seconds between each print statement. 
+
 class HelloThread extends Thread {
 
 	public void run() {

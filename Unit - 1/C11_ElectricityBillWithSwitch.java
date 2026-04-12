@@ -1,3 +1,11 @@
+// 11.An electricity board charges different rates for different categories of 
+// consumption of power.  
+// Category 1 is domestic users, category 2 is educational institutions, category 3 
+// is commercial institutions and category 4 is industries.  
+// The tariff for energy consumption is Rs 1.00/unit for category 1, Rs 1.75/unit 
+// for category 2, Rs 2.50/unit for category 3 and Rs 3.00/unit for category 4.  
+// Write a program to calculate the electricity charges for the following data.
+
 public class C11_ElectricityBillWithSwitch {
 
 	public static void main(String[] args) {

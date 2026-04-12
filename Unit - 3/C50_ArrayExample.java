@@ -1,3 +1,8 @@
+// 50. Write a Java program that initializes an array of five integers. Take an 
+// index as input from the user and print the corresponding array 
+// element. Handle the ArrayIndexOutOfBoundsException if an attempt is 
+// made to access an element beyond the array's bounds.
+
 import java.util.Scanner;
 
 public class C50_ArrayExample {

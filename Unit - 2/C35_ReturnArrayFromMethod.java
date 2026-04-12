@@ -1,3 +1,5 @@
+// 35. Write a Java program to Returning array from method.
+
 public class C35_ReturnArrayFromMethod {
 	static int[] createArray() {
 		int[] arr = { 10, 20, 30, 40, 500 };

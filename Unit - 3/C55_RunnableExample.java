@@ -1,3 +1,7 @@
+// 55. Write a java program to Create a class that implements Runnable and print 1 
+// to 5 numbers with the delay of 2 second after each print statement. Create a 
+// Thread object with an instance of your Runnable class and start it.
+
 class MyRunnable implements Runnable {
 
 	// Step 2: Override run() method

@@ -1,3 +1,7 @@
+// 51. Write a Java program use multiple catch blocks to handle 
+// ArrayIndexOutOfBoundsException and IllegalArgumentException 
+// separately. 
+
 import java.util.Scanner;
 
 public class C51_MultipleCatch {

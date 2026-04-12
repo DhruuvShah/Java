@@ -1,3 +1,6 @@
+// 43.  This Java program demonstrates the use of the super() constructor call to invoke a parent 
+// class constructor from a child class constructor. 
+
 class SuperClass {
 	SuperClass() {
 		System.out.println("Super Class Constructor");

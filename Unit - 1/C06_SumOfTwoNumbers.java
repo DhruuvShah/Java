@@ -1,3 +1,5 @@
+//6. Write a Java program to calculate and display the sum of two predefined integers. 
+
 public class C06_SumOfTwoNumbers {
 
 	public static void main(String[] args) {

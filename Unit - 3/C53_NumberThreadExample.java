@@ -1,3 +1,6 @@
+// 53. Create a thread that prints numbers from 1 to 10 with a 5-second pause 
+// between each number using Thread.sleep().  
+
 class NumberThread extends Thread {
 
 	// Overriding run() method

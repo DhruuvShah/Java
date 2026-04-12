@@ -1,3 +1,6 @@
+// 22. Write a Java program to create Class named “Employee” with four attributes – 
+// “Employee_id, Name, Salary, Department”and create two objects of the employee class. 
+
 class Employee_22 {
 
 	int employee_id;

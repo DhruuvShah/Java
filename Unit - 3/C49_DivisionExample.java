@@ -1,3 +1,7 @@
+// 49. Write a Java program that takes two integers as input and performs 
+// division. Handle the ArithmeticException if the denominator is zero and 
+// display an appropriate message. 
+
 import java.util.Scanner;
 
 public class C49_DivisionExample {

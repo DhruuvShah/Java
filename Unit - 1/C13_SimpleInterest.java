@@ -1,3 +1,5 @@
+// 12. Write a java program to Find Simple Interest. – Take value of P,R and N from the user. 
+
 import java.util.Scanner;
 
 public class C13_SimpleInterest {

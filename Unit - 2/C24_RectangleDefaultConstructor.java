@@ -1,3 +1,6 @@
+// 24. Write a Java program demonstrates the use of a default constructor to initialize object 
+// data members. 
+
 public class C24_RectangleDefaultConstructor {
 	double length;
 	double width;

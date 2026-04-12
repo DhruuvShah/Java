@@ -1,3 +1,5 @@
+//7. Java program to input two numbers from the user and display their sum using Scanner.
+
 import java.util.Scanner;
 
 public class C07_AdditionWithScanner {

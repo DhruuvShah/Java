@@ -1,3 +1,6 @@
+// 54. Write a program to demonstrate multiple threads in the same java program 
+// and  that prints numbers from 1 to 5 with a 5-second pause.
+
 class MyThread extends Thread {
 	String threadName;
 

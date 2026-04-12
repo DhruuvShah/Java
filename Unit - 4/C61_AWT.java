@@ -1,3 +1,8 @@
+// 61.  Write a Program to Develop a Java-based AWT Calculator that accepts two numbers from 
+// user & performs arithmetic operations (addition, subtraction, multiplication, & division) 
+// using buttons. Display the result in a label as shown in below fig. Handle invalid inputs & 
+// division by zero. 
+
 import java.awt.*;
 import java.awt.event.*;
 

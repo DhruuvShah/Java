@@ -1,3 +1,5 @@
+// 37. Write a Java program to demonstrate Single Inheritance.
+
 class Person {
 	String name;
 	int age;

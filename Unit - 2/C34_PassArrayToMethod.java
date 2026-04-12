@@ -1,3 +1,5 @@
+// 34. Write a Java program to Passing Array to method. 
+
 public class C34_PassArrayToMethod {
 	static void printArray(int[] arr) {
 		for (int i = 0; i < arr.length; i++) {

@@ -1,3 +1,5 @@
+//4. Write a Java program to generate multiplication table. 
+
 import java.util.Scanner;
 
 public class C04_MultiplicationTable {

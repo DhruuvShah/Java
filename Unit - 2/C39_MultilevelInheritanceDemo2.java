@@ -1,3 +1,8 @@
+// 39. Class Number has a variable x which is an integer number, Class Square is derived from 
+// class number which prints square of the given number and class Cube is derived from class 
+// Square which prints the cube of the integer number. Write a program to demonstrate the 
+// mechanism. 
+
 class Number {
 	int x;
 

@@ -1,3 +1,6 @@
+// 56. Write a Java program that creates two threads—one thread prints even 
+// numbers from 1 to 20, and the other prints odd numbers from 1 to 20. 
+
 class EvenThread extends Thread {
 
 	public void run() {

@@ -1,3 +1,5 @@
+// 46. Java program demonstrates the use of the final keyword to prevent inheritance.
+
 final class Vehicle {
 	void show() {
 		System.out.println("This is a Vehicle class.");

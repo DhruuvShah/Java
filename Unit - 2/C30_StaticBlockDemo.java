@@ -1,3 +1,6 @@
+// 30. Write a Java program to demonstrates the order of execution of a static block, instance 
+// initialization block, and constructors in Java. 
+
 public class C30_StaticBlockDemo {
 	static {
 		System.out.println("Static Block");

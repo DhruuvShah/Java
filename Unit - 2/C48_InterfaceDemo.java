@@ -1,3 +1,5 @@
+// 48. Write Java program demonstrates the use of interfaces to achieve abstraction and polymorphism. 
+
 interface Shape2 {
 	void findArea(); // abstract method
 }

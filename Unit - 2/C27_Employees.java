@@ -1,3 +1,9 @@
+// Write a Java program to demonstrates the use of a parameterized constructor. 
+// Create class Employee which contains three instance variables: 
+//  • Employee_id 
+// • Employee_Name 
+// • salary 
+
 class C27_Employees {
 
 	// Instance variables

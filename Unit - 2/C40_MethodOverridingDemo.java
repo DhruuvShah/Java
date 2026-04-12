@@ -1,3 +1,5 @@
+// 40. Write a Java program to demonstrates the concept of method overriding.
+
 class Animal {
 	void sound() {
 		System.out.println("Animal makes a sound");

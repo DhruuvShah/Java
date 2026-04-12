@@ -1,3 +1,9 @@
+// 60. Write a Program to Develop a Java-based below UI(User Interface) Using AWT. UI must 
+// include 1 frame, 2 Lables, 2 Textfield and 1 button as shown in  below fig. and also 
+// implement below functionality… 
+// when I Click on the button then it will Swap the content which is present in the two TextFiled 
+// So… How to generate this write the Code using AWT. 
+
 import java.awt.*;
 import java.awt.event.*;
 

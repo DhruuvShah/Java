@@ -1,3 +1,5 @@
+// 32. Write a Java program to demonstrates the use of a two-dimensional array 
+
 public class C32_TwoDArrayExample {
 
 	public static void main(String[] args) {

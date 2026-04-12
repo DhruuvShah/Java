@@ -1,3 +1,8 @@
+// 19. Write a Java program that calculates and displays the salary slip of an 
+// employee. Program will take inputs from the user – (Company Name, 
+// Employee ID, Employee Department, Employee Name, Joining Date 
+// (dd/mm/yyyy), Basic Salary). 
+
 import java.util.Scanner;
 
 public class C19_SalarySlipBasic {
